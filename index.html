@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>to-do list</title>
+    <link rel="stylesheet" href="style.css" />
+    <script defer src="script.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="todo-header">
+        <div class="todo-label">
+          <label> New Todo:</label>
+        </div>
+
+        <div class="todo-content">
+          <input type="text" id="new-task" placeholder="Enter a task..." />
+          <button id="add-task">Add</button>
+          <div class="error" id="errorMessage"></div>
+        </div>
+      </div>
+
+      <div class="todo-list">
+        <ul id="tasks">
+          <!-- <li class="task-item fade-in">
+            <input type="checkbox" />
+            <span class="task-items">Item 1</span>
+            <div class="task-buttons">
+              <button class="edit-btn">✏️</button>
+              <button class="delete-btn">🗑️</button>
+            </div>
+          </li> -->
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
