@@ -1,7 +1,7 @@
-* 📝 To-Do List App
+# 📝 To-Do List App
 A simple, stylish, and interactive To-Do List app built using HTML, CSS, and JavaScript. It includes local storage, smooth animations, and drag-and-drop reordering.
 
-** ✨ Features
+## ✨ Features
 * ✅ Add Tasks – Type and press "Add" to create tasks.
 * ✅ Edit Tasks – Click the ✏️ button to edit an existing task.
 * ✅ Delete Tasks – Click the 🗑️ button to remove a task.
@@ -10,7 +10,7 @@ A simple, stylish, and interactive To-Do List app built using HTML, CSS, and Jav
 * ✅ Local Storage – Tasks persist after page refresh.
 * ✅ Smooth Animations – Fade-in effects for a better user experience.🚀
 
-** 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - HTML – Structure
 - CSS – Styling & Animations
 - JavaScript – Functionality
